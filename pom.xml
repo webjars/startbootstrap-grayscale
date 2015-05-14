@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>startbootstrap-grayscale</artifactId>
-    <version>1.0.4</version>
+    <version>1.0.5-SNAPSHOT</version>
     <name>Start Bootstrap - Grayscale</name>
     <description>WebJar for Start Bootstrap - Grayscale</description>
     <url>http://webjars.org</url>
@@ -47,7 +47,7 @@
         <url>http://github.com/webjars/startbootstrap-grayscale</url>
         <connection>scm:git:https://github.com/webjars/startbootstrap-grayscale.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/startbootstrap-grayscale.git</developerConnection>
-        <tag>startbootstrap-grayscale-1.0.4</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
